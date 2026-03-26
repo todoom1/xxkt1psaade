@@ -11,10 +11,10 @@ document.getElementById("dt").addEventListener("click", function() {
 	window.open(atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNjMmcHQ9ODlFQzc1NzgtM0JDNy01NUEwLTdEMDYtOTA3QkU4Nzc2MDM1"), '_blank');
 	});
 document.getElementById("sj").addEventListener("click", function() {
-	window.open(atob("11111"), '_blank');
+	window.open(atob("aHR0cHM6Ly94anZ1ZWIuaGVmYXNoaXAuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDEwJnRvcElkPTMxMTMyMzUN"), '_blank');
 	});
 document.getElementById("xsd").addEventListener("click", function() {
-	window.open(atob("11111"), '_blank');
+	window.open(atob("aHR0cHM6Ly9kZXJlYXIuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA1OSZ0b3BJZD00NjczNCZzZWxmUGxhbklkPTE3MzgwNw=="), '_blank');
 	});
 document.getElementById("st").addEventListener("click", function() {
 	window.open(atob("aHR0cHM6Ly9sZWp2YS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDU4JnRvcElkPTI2MjM4OTcmc2VsZlBsYW5JZD0yMTMxNzA1"), '_blank');
