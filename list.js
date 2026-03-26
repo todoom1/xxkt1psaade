@@ -1,14 +1,14 @@
 document.getElementById("jl").addEventListener("click", function() {
-	window.open(atob("11111"), '_blank');
+	window.open(atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTIwODEmdG9wSWQ9MjUxNzcyMCZzZWxmUGxhbklkPTIzMzAyNjI="), '_blank');
 	});
 document.getElementById("cf").addEventListener("click", function() {
-	window.open(atob("11111"), '_blank');
+	window.open(atob("aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnRvcElkPTU1OTA1NDY="), '_blank');
 	});
 document.getElementById("ff").addEventListener("click", function() {
-	window.open(atob("11111"), '_blank');
+	window.open(atob("aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUwJnRvcElkPTYyNzE3NzM4Mjk1OTQzMjImc2VsZlBsYW5JZD00NjYxNjQz"), '_blank');
 	});
 document.getElementById("dt").addEventListener("click", function() {
-	window.open(atob("11111"), '_blank');
+	window.open(atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNjMmcHQ9ODlFQzc1NzgtM0JDNy01NUEwLTdEMDYtOTA3QkU4Nzc2MDM1"), '_blank');
 	});
 document.getElementById("sj").addEventListener("click", function() {
 	window.open(atob("11111"), '_blank');
@@ -17,7 +17,7 @@ document.getElementById("xsd").addEventListener("click", function() {
 	window.open(atob("11111"), '_blank');
 	});
 document.getElementById("st").addEventListener("click", function() {
-	window.open(atob("11111"), '_blank');
+	window.open(atob("aHR0cHM6Ly9sZWp2YS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDU4JnRvcElkPTI2MjM4OTcmc2VsZlBsYW5JZD0yMTMxNzA1"), '_blank');
 	});
 document.getElementById("jln").innerHTML = ("君临国际");
 document.getElementById("cfn").innerHTML = ("超凡国际");
