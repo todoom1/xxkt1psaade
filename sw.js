@@ -8,14 +8,7 @@ const PRECACHE = [
   '/new.css',
   '/inpro.js',
   '/list.js',
-  '/pg2.html',
-  '/pgx.html',
-  '/pgx2.html',
-  '/pgz2.html',
-  '/pgz.html',
   '/tea1.html',
-  '/tea.html',
-  '/teax.html',
   '/svg/pg.svg',
   '/svg/pp.svg',
   '/svg/mg.svg',
@@ -46,6 +39,7 @@ const PRECACHE = [
   '/svg/phub.svg',
   '/png/air.png',
   
+
   // ... 其他资源
 ];
 
@@ -108,7 +102,7 @@ self.addEventListener('fetch', (e) => {
             // 判断是否为页面导航请求
             if (acceptHeader.includes('text/html')) {
                 return new Response(
-                    '<!DOCTYPE html><html><body><h1>Offline</h1><p>您已断开连接，且该页面未缓存。</p></body></html>', 
+                    '<!DOCTYPE html><html lang="zh-CN"><meta charset="UTF-8"><body><h1>Offline</h1><p>您已断开连接，且该页面未缓存。</p></body></html>', 
                     { 
                         status: 503, 
                         headers: {'Content-Type': 'text/html; charset=UTF-8'} 
