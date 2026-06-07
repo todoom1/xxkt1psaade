@@ -1,5 +1,7 @@
 (function() {
     var secretApps = [
+{img: './png/xjh.jpg', name: '聚鑫汇', xurl: 'aHR0cHM6Ly95Ymt2YnoudGNrcXh4LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA2NiZ0b3BJZD0yNjgwMCZzZWxmUGxhbklkPTEzNDc='},
+{img: './png/ltgj.jpg', name: '龙腾国际', xurl: 'aHR0cHM6Ly9wc2t0a3gudGNrcXh4LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA2NSZ0b3BJZD0yNzAzOCZzZWxmUGxhbklkPTk2NQ=='},
 {img: './png/cfgj.jpg', name: '超凡国际', xurl: 'aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnB0PUZCRUYxMjlELUQwNDUtOUE1Ni0xOEUyLUQ5M0E3OTMyNzExNA=='},
 {img: './png/hygj.jpg', name: '汇赢国际', xurl: 'aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTE5NzU5NzQmc2VsZlBsYW5JZD0xODQxMTgz'},
 {img: './png/dtgj.jpg', name: '鼎天国际', xurl: 'aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNjMmcHQ9NkU2M0EwRTctQTVGQi0wQTAxLThEOTUtRTVFODJENEMwNTlD'},
